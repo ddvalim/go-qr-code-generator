@@ -1,4 +1,4 @@
-# go-pdf-builder
+# go-qr-code-generator
 
 API escrita em Go que gera imagens QR Code baseado nas entradas do usuário.
 
